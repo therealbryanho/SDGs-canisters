@@ -1,0 +1,7 @@
+type Goal = nat;
+service : {
+  mintNFT: (record {
+              _number: Goal;
+              _to: text;
+            }) -> (bool);
+}
