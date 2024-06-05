@@ -14,7 +14,7 @@ actor Main {
     }) : async Bool {
         var to : Principal = Principal.fromText(_to);
 
-        let prefix : Text = "http://bw4dl-smaaa-aaaaa-qaacq-cai.localhost:4943/"; 
+        let prefix : Text = "https://dsxli-uyaaa-aaaai-qpe6q-cai.icp0.io/"; 
         let suffix : Text = ".png";
         let uri : Text = prefix # _number # suffix;
 

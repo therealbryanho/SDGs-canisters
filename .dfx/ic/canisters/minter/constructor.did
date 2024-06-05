@@ -1,0 +1,6 @@
+service : {
+  mintNFT: (record {
+              _number: text;
+              _to: text;
+            }) -> (bool);
+}
