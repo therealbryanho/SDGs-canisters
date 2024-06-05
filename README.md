@@ -1,8 +1,8 @@
 Sustainable Development Goals Quiz URL https://sdgs.workwithgenai.com/
 
-Sign up and login, complete quizes about Sustainable Development Goals!
+Sign up and login, complete quizes about Sustainable Development Goals! Total 17 NFTs to collect!
 
-Total 17 NFTs to achieve!
+This project is a submission for Dorahacks "Hack to the Future" Hackathon https://dorahacks.io/buidl/13158
 
 ## Deployed canisters
 
